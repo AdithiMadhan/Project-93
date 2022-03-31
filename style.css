@@ -1,0 +1,28 @@
+body {
+
+    background-color: turquoise;
+
+}
+
+.heading {
+
+    width: 50%;
+    font-size: large;
+}
+
+#camera {
+
+    width: 350px;
+    height:310px;
+    border-style: dashed;
+}
+
+label {
+
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px gray;
+    width: 15%;
+}
